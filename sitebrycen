@@ -1,0 +1,6 @@
+packardstudios/
+├── index.html
+├── assets/
+│   └── css/
+│       └── styles.css
+└── README.md
